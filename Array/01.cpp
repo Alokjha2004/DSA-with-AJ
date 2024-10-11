@@ -1,0 +1,9 @@
+#include<iostream>
+using namespace std;
+int main(){
+    int i=1;
+    for(i;i<1000;i++){
+        cout<<i<<endl;\
+    }
+
+}

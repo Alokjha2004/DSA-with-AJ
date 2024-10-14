@@ -1,3 +1,6 @@
+// search this problem in gfg 
+
+
 // ******** Given an integer array and another integer element. The task is to find if the given element is present in array or not ********
 
 // <======== Example ========>
@@ -24,8 +27,7 @@ int main()
     }
 }
 
-// for any other platform general solution
-
+// for solution of gfg 
 class Solution
 {
 public:
